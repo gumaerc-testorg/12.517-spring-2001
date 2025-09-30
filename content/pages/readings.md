@@ -79,7 +79,7 @@ Supplemental Information Ecological Experiments
 {{< tdopen >}}
 
 
-Gause, G. F. "The Struggle for Existence." Baltimore, MD: Williams and Wilkins, 1934a. ([Full text](https://archive.org/stream/struggleforexist00gauz/struggleforexist00gauz_djvu.txt)).
+Gause, G. F. "The Struggle for Existence." Baltimore, MD: Williams and Wilkins, 1934a. ({{% resource_link "8ba2e2e0-bdfe-459f-9912-a7bfacd2dcf4" "Full text" %}}).
 
 ———. "Experimental Analysis of Vito Volterra's Mathematical Theory of the Struggle for Existence." _Science_ 79 (1934b): 16-17.
 
